@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\yazan\source\repos\Data2\Data2\main.cpp(14,15): warning C4101: 'r1': unreferenced local variable
+C:\Users\yazan\source\repos\Data2\Data2\BST.h(95): warning C4715: 'checkbst': not all control paths return a value
+C:\Users\yazan\source\repos\Data2\Data2\BST.h(80): warning C4715: 'BST::min_bst': not all control paths return a value
+C:\Users\yazan\source\repos\Data2\Data2\BST.h(175): warning C4715: 'BST::search': not all control paths return a value
+C:\Users\yazan\source\repos\Data2\Data2\BST.h(246): warning C4715: 'BST::add': not all control paths return a value
+  Data2.vcxproj -> C:\Users\yazan\source\repos\Data2\x64\Debug\Data2.exe

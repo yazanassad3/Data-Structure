@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\yazan\source\repos\Data2\Data2\Source.cpp(71,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+Source.obj : error LNK2001: unresolved external symbol "public: __thiscall list::~list(void)" (??1list@@QAE@XZ)
+C:\Users\yazan\source\repos\Data2\Release\Data2.exe : fatal error LNK1120: 1 unresolved externals

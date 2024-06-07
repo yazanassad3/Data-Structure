@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "public: __thiscall list::~list(void)" (??1list@@QAE@XZ) referenced in function _main
+C:\Users\yazan\source\repos\Data2\Debug\Data2.exe : fatal error LNK1120: 1 unresolved externals
